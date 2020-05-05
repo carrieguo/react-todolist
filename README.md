@@ -1,4 +1,7 @@
+项目使用create-react-app搭建，包含vue-router模块，ToDoList模块，我自己添加了列表删除功能。
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
